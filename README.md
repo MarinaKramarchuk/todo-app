@@ -3,7 +3,8 @@
 A full-featured Todo application built with **React** and **TypeScript**, fully synchronized with a remote API.
 The app allows users to create, rename, toggle, and delete todos, manage all items at once, and interact with the UI through smooth loading states and error handling.
 
-🔗 **Live Preview** https://MarinaKramarchuk.github.io/todo-app/
+🔗 **Live Preview** 
+https://MarinaKramarchuk.github.io/todo-app/
 ✔️ Public and tested in Incognito mode
 ---
 ## 🛠 Technologies Used
