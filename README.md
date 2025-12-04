@@ -65,15 +65,21 @@ https://MarinaKramarchuk.github.io/todo-app/
 - npm or yarn
 
 1️⃣ Clone the repository
+```bash
 git clone https://github.com/MarinaKramarchuk/react_todo-app-with-api.git
 cd react_todo-app-with-api
+```
 
 2️⃣ Install dependencies
+```bash
 npm install
-# or
+or
 yarn install
+```
 
 3️⃣ Run the project locally
+```bash
 npm start
-# or
+or
 yarn start
+```
