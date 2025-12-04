@@ -5,7 +5,7 @@ The app allows users to create, rename, toggle, and delete todos, manage all ite
 
 ### 🔗 **Live Preview**  
 https://MarinaKramarchuk.github.io/todo-app/  
-<sub>✔️ Public and tested in Incognito mode</sub>
+✔️ Public and tested in Incognito mode
 
 ---
 ## 🛠 Technologies Used
