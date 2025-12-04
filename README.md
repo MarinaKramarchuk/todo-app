@@ -51,7 +51,7 @@ https://MarinaKramarchuk.github.io/todo-app/
 - Show loader during deletion
 - Notification on API errors
 
-### Optional UI Features (if implemented)
+### ✅ Other Features
 - Filters: All / Active / Completed
 - Active items counter
 - Clear completed button
