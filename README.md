@@ -73,13 +73,13 @@ cd react_todo-app-with-api
 2️⃣ Install dependencies
 ```bash
 npm install
-or
+#or
 yarn install
 ```
 
 3️⃣ Run the project locally
 ```bash
 npm start
-or
+#or
 yarn start
 ```
