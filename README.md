@@ -3,8 +3,10 @@
 A full-featured Todo application built with **React** and **TypeScript**, fully synchronized with a remote API.
 The app allows users to create, rename, toggle, and delete todos, manage all items at once, and interact with the UI through smooth loading states and error handling.
 
-🔗 **Live Preview** https://MarinaKramarchuk.github.io/todo-app/
+### 🔗 **Live Preview**  
+https://MarinaKramarchuk.github.io/todo-app/  
 ✔️ Public and tested in Incognito mode
+
 ---
 ## 🛠 Technologies Used
 
@@ -49,7 +51,7 @@ The app allows users to create, rename, toggle, and delete todos, manage all ite
 - Show loader during deletion
 - Notification on API errors
 
-### Optional UI Features (if implemented)
+### ✅ Other Features
 - Filters: All / Active / Completed
 - Active items counter
 - Clear completed button
@@ -63,15 +65,21 @@ The app allows users to create, rename, toggle, and delete todos, manage all ite
 - npm or yarn
 
 1️⃣ Clone the repository
+```bash
 git clone https://github.com/MarinaKramarchuk/react_todo-app-with-api.git
 cd react_todo-app-with-api
+```
 
 2️⃣ Install dependencies
+```bash
 npm install
-# or
+#or
 yarn install
+```
 
 3️⃣ Run the project locally
+```bash
 npm start
-# or
+#or
 yarn start
+```
